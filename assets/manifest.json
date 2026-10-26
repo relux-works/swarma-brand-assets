@@ -1,0 +1,431 @@
+{
+  "version": "1.0.0",
+  "source": "source/swarma-symbol.svg",
+  "sourceSha256": "4b017a00793a1d058d46b97725601fc4fb8041c3eeb66202a01f2a7c0cf5dfed",
+  "font": "Inter Bold 4.001",
+  "fontSha256": "288316099b1e0a47a4716d159098005eef7c0066921f34e3200393dbdb01947f",
+  "assets": [
+    {
+      "path": "assets/icons/apple-touch-icon.png",
+      "bytes": 2457,
+      "sha256": "91f3fae3ffc9190e9d3c06ed45b130244042bb7511c1bbf5ffc6071fddcd949e",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "path": "assets/icons/favicon-16.png",
+      "bytes": 347,
+      "sha256": "f2a25cfdd1e020b751799bcba6f25fcd1b0b0a4ec85e069d86c132d4b4c6dfcd",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "path": "assets/icons/favicon-24.png",
+      "bytes": 470,
+      "sha256": "050fe34fcf88b00f696dc12fe221ded3147d9c20a9421f5be6285bed83aed29a",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "assets/icons/favicon-32.png",
+      "bytes": 593,
+      "sha256": "4d53b1ab39596ddda1e38da531329abdfddeb4a990d53c76c974f348f3e038a6",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "assets/icons/favicon-48.png",
+      "bytes": 788,
+      "sha256": "59d88300adf26d528bab8c8509cb2f8c8e1a89e2828a56ed4b0c9f33f8be607e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "assets/icons/favicon-64.png",
+      "bytes": 1013,
+      "sha256": "03c0a5e5027197bbc7d9b1348eebcf05dd53680120e20557bc50964741d7404a",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "assets/icons/favicon-dark.svg",
+      "bytes": 261,
+      "sha256": "05687d7ee9c36805d997230fd5441bd0c76296d2050671cd16b3d7f80534ec1d"
+    },
+    {
+      "path": "assets/icons/favicon.ico",
+      "bytes": 1782,
+      "sha256": "e868974c38a6b333c8e2b7d36806e000de93fd41af29ec58350999e704c006a2"
+    },
+    {
+      "path": "assets/icons/favicon.svg",
+      "bytes": 261,
+      "sha256": "4b017a00793a1d058d46b97725601fc4fb8041c3eeb66202a01f2a7c0cf5dfed"
+    },
+    {
+      "path": "assets/icons/icon-192.png",
+      "bytes": 2575,
+      "sha256": "2b428e059fb524601f50f9e1090e2bc764d5a60e0fdb3731613cb957c0108edf",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "assets/icons/icon-512.png",
+      "bytes": 6774,
+      "sha256": "303db489adb26fd566888cae47910a599299c6b0777fc6ffa130aaebc0fe0550",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/icons/icon-maskable-512.png",
+      "bytes": 6299,
+      "sha256": "e45c99900f731a6eb55cf17140cc22764d67c2bcf1cfd75d154959b941e65128",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/png/swarma-avatar-dark-1024.png",
+      "bytes": 16683,
+      "sha256": "58502a7c8a61abbf46c285f2c9402f274b67a4f9a5048c85e9ba55bb99f7fd96",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-avatar-dark-128.png",
+      "bytes": 1740,
+      "sha256": "a7921e6113505caf69418f65c13680e81ae3eca7f10fc2353ea7992e1cddc353",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "assets/png/swarma-avatar-dark-256.png",
+      "bytes": 3272,
+      "sha256": "6e73380acca93c56851cd9b6f01d0550ced4c258b6eba16db07be3796cd3c6ec",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-avatar-dark-512.png",
+      "bytes": 6714,
+      "sha256": "207edb4a60d57fc85b9b12e009e5cf24e5cd5c75f247d34d9e1c984f21d1f5f2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/png/swarma-avatar-light-1024.png",
+      "bytes": 16944,
+      "sha256": "9a461b9595be85aec00d4f99b3aafbaa6c17f84c46f7085cc7053d785150b1ab",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-avatar-light-128.png",
+      "bytes": 1769,
+      "sha256": "0e70ace4066f352ccc31b0fcc86adef79711846902043b98a0eabb1e4998e7ac",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "assets/png/swarma-avatar-light-256.png",
+      "bytes": 3334,
+      "sha256": "8a12fd295e8a5b833a90bcf1301970a7b0bac3c375c7ed24dd1ea8e5f3678a39",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-avatar-light-512.png",
+      "bytes": 6774,
+      "sha256": "303db489adb26fd566888cae47910a599299c6b0777fc6ffa130aaebc0fe0550",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-1920.png",
+      "bytes": 41509,
+      "sha256": "cedc02ce7528fd7c9233c49004560c05ba4eb93dbabefbcf98d9aa80c2cf5670",
+      "width": 1920,
+      "height": 670
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-960.png",
+      "bytes": 18176,
+      "sha256": "36dab72b82c7f28a7250f28ea859ef8fea55d983d8050a08128789afb241e5eb",
+      "width": 960,
+      "height": 335
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-dark-1920.png",
+      "bytes": 41539,
+      "sha256": "485fb4e91ee1483364038206171803360f2448490c230c0a719dced5cc7b6686",
+      "width": 1920,
+      "height": 670
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-dark-960.png",
+      "bytes": 18181,
+      "sha256": "4b7ebef73f55d6b9fa786bb0257519b0d972e4b821e84f52a4d2eefd269e5e82",
+      "width": 960,
+      "height": 335
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-mono-1920.png",
+      "bytes": 41265,
+      "sha256": "9451a94591c64b72425d603e9199f96e0198ad2da3dad2fda3afef51b1d1e8d3",
+      "width": 1920,
+      "height": 670
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-mono-960.png",
+      "bytes": 18042,
+      "sha256": "196704088f9933e8a3e68ac987c8695bfb5ee155315b13d190ce5459b1f56ac3",
+      "width": 960,
+      "height": 335
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-white-1920.png",
+      "bytes": 40330,
+      "sha256": "9e8a4120c94c97c530f7cf9c50f275ba8213420b948be78b096e4f61f1c0a909",
+      "width": 1920,
+      "height": 670
+    },
+    {
+      "path": "assets/png/swarma-lockup-horizontal-white-960.png",
+      "bytes": 18346,
+      "sha256": "4648a270559d52829f3782ac3a1d132352389ff92fc1425fce63bd0ada76a62e",
+      "width": 960,
+      "height": 335
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-1280.png",
+      "bytes": 40453,
+      "sha256": "1c8212d57f4d09718e135a38432926ff75db1f2f0671e79d460298518e10b0a7",
+      "width": 1280,
+      "height": 1083
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-640.png",
+      "bytes": 17142,
+      "sha256": "054fd5c03c816eb046d5086cffd4630679e479b514ed4a4dbae61fa2299a3257",
+      "width": 640,
+      "height": 542
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-dark-1280.png",
+      "bytes": 40877,
+      "sha256": "6c9b0ac3c4819037a8368aa27929aaacf60767076a04c906b1240825fd99a8d0",
+      "width": 1280,
+      "height": 1083
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-dark-640.png",
+      "bytes": 17787,
+      "sha256": "316265ca056d1406eab954a737963a24feeb0e1f4ec88451d02ca65b2c4fcc81",
+      "width": 640,
+      "height": 542
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-mono-1280.png",
+      "bytes": 40314,
+      "sha256": "6dc54bc5c2ad6f7ea43b64f0e6080f8cf302741080f22c1dd0f2c33e1b85e01a",
+      "width": 1280,
+      "height": 1083
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-mono-640.png",
+      "bytes": 16849,
+      "sha256": "fbeb5318442760d38db9f8a2b488aeb0534d1e52e0ebc760dc15d60ad3f9dc02",
+      "width": 640,
+      "height": 542
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-white-1280.png",
+      "bytes": 39836,
+      "sha256": "be9d307010de5b232f935d9b62de4a219e9714e787e3db6d9e3b0afbefd42fb6",
+      "width": 1280,
+      "height": 1083
+    },
+    {
+      "path": "assets/png/swarma-lockup-stacked-white-640.png",
+      "bytes": 17802,
+      "sha256": "72cdeb8a22cb7dcdda53c1470223daee5afc38595fdad62553f119fcc840ff33",
+      "width": 640,
+      "height": 542
+    },
+    {
+      "path": "assets/png/swarma-symbol-1024.png",
+      "bytes": 20647,
+      "sha256": "72e69296daeced1adf8d6a3e94b27aad406f2f0702b14581bbd7094424126f8b",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-symbol-256.png",
+      "bytes": 4163,
+      "sha256": "81c2e75848dbc934879b83752f578d9395a390dc1df57f925d12d9282925cc01",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-symbol-dark-1024.png",
+      "bytes": 20646,
+      "sha256": "fbcabcaaf7ba2fd8e83c226e96b54b5846eb750450691c4f13f9f7c06dac3422",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-symbol-dark-256.png",
+      "bytes": 4456,
+      "sha256": "0e6753154e43bc78956b51ef825f25f0720b38e7f2d95c090f262905e4b60f89",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-symbol-mono-1024.png",
+      "bytes": 20277,
+      "sha256": "fdf4ebc18dd97c8411005b70df3d9985322297ed8b460d3fac5bbf7d9caf5145",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-symbol-mono-256.png",
+      "bytes": 3979,
+      "sha256": "fa63261fcf075f4e980abf97ced882cb1ac0b3183527b992d11b9f869686290f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-symbol-white-1024.png",
+      "bytes": 21550,
+      "sha256": "c0f94e94a56cdea18650420296e9afdeb138ee17cfa0942d9cfb3d03ac170747",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "assets/png/swarma-symbol-white-256.png",
+      "bytes": 4400,
+      "sha256": "c9d0216d0557e3a0796b54f422f252e8e9fbc7ef2449078272f759329f104dd9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/png/swarma-wordmark-1600.png",
+      "bytes": 32640,
+      "sha256": "8a9ad629d65228cd9e32537dc7f1f3d58b0b2fff5cb1ee6eb8af0065f9b4e2a6",
+      "width": 1600,
+      "height": 533
+    },
+    {
+      "path": "assets/png/swarma-wordmark-800.png",
+      "bytes": 14800,
+      "sha256": "55161e4ce3f2e053fa4b9c39cafc95e1117b825eeb6a0178153a3f63e0c5518e",
+      "width": 800,
+      "height": 267
+    },
+    {
+      "path": "assets/png/swarma-wordmark-white-1600.png",
+      "bytes": 32508,
+      "sha256": "9ee5c50c53586603cca87f8eea933baa96a4181e3902022097ae5d92531fde71",
+      "width": 1600,
+      "height": 533
+    },
+    {
+      "path": "assets/png/swarma-wordmark-white-800.png",
+      "bytes": 15072,
+      "sha256": "c29edc907b053b4c1af79aaa16324c2dd3c96a6c0a277a499d28e6add0be3024",
+      "width": 800,
+      "height": 267
+    },
+    {
+      "path": "assets/svg/swarma-avatar-dark.svg",
+      "bytes": 367,
+      "sha256": "20fd869c42c5fcd36170c68c84202dd98cc9a17f52a10a00d80b5a5c756155e1"
+    },
+    {
+      "path": "assets/svg/swarma-avatar-light.svg",
+      "bytes": 367,
+      "sha256": "87a7a5e10792322c3e4d7ea661298db7ad3207cc1680ff0a3526ddffebc51cd4"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-horizontal-dark.svg",
+      "bytes": 5165,
+      "sha256": "497d6c766390758aa02eae6ef648fdf7023585be3167a4cfc77fb3bc207dd7ba"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-horizontal-mono.svg",
+      "bytes": 5165,
+      "sha256": "b4b503e97ddf86c5c396cdffac4daa5e092e3502098897af0708d55ea3cf124c"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-horizontal-white.svg",
+      "bytes": 5165,
+      "sha256": "64f0f278c0330c556ed5cb7bc317281e69d641ecfe516cad7e2939772bf3349f"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-horizontal.svg",
+      "bytes": 5165,
+      "sha256": "07e0f6164f67c048deee2c36eb7841069be399656dfd3eee8d26996054386b19"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-stacked-dark.svg",
+      "bytes": 5430,
+      "sha256": "aeda01aec266e863fb54fa37124f08aa8fe09c8dcbfcd824ffbcfafcb2e24470"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-stacked-mono.svg",
+      "bytes": 5430,
+      "sha256": "98412df8cea88d141dc14e4bad4ab4813c1af43c32e7c6d900bf2b6c121c4b17"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-stacked-white.svg",
+      "bytes": 5430,
+      "sha256": "4de5a4999c72f43b5ca3abeda100c76c3fe2678a2fe3cc2e32a49ef570911dbc"
+    },
+    {
+      "path": "assets/svg/swarma-lockup-stacked.svg",
+      "bytes": 5430,
+      "sha256": "a79b2b793b5f476bbe9021f4fbe01c6f9903ed98bb06e85a92763c9def6e6804"
+    },
+    {
+      "path": "assets/svg/swarma-symbol-dark.svg",
+      "bytes": 261,
+      "sha256": "05687d7ee9c36805d997230fd5441bd0c76296d2050671cd16b3d7f80534ec1d"
+    },
+    {
+      "path": "assets/svg/swarma-symbol-mono.svg",
+      "bytes": 261,
+      "sha256": "cc8392a33e48ee0572005a5c2af997bae58ad8b59e0b801c55042f7ad1fef4cb"
+    },
+    {
+      "path": "assets/svg/swarma-symbol-white.svg",
+      "bytes": 261,
+      "sha256": "05c0e77e058408c0da824dee17da83ae47f092708dfba4208e438d67d3f69a37"
+    },
+    {
+      "path": "assets/svg/swarma-symbol.svg",
+      "bytes": 261,
+      "sha256": "4b017a00793a1d058d46b97725601fc4fb8041c3eeb66202a01f2a7c0cf5dfed"
+    },
+    {
+      "path": "assets/svg/swarma-wordmark-white.svg",
+      "bytes": 4875,
+      "sha256": "d776c29a7a2275f67ca8842fff510a9f5c1bf312bd82caa5a56a5fbe23848f75"
+    },
+    {
+      "path": "assets/svg/swarma-wordmark.svg",
+      "bytes": 4875,
+      "sha256": "620e4868902aed2270ed3a95e197b711aac3927cd6374bca83ce598bba014917"
+    },
+    {
+      "path": "docs/asset-preview.png",
+      "bytes": 61865,
+      "sha256": "4fcea81e1caf686efde9ed62f0c5f9bb0f324ed1221f014c9acb8a35d0fcf566",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "path": "docs/asset-preview.svg",
+      "bytes": 115774,
+      "sha256": "6968e36dafe8e8229cd43e7aeda246b6ed49e80c9137f983bf67f625c6834323"
+    }
+  ]
+}
